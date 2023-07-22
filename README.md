@@ -16,7 +16,7 @@ Follow the steps below to set up Land Ledger on your system:
 
 1. Clone the Land Ledger repository:
     ```
-    git clone https://github.com/YashVardhanSingh01/Land-Ledger.git
+    git clone https://github.com/nidhi-47/Land-Ledger.git
     cd Land-Ledger
     ```
 2. Install the required dependencies:
